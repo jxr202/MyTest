@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="activity_01">Activity_01</string>
+    <string name="activity_02">Activity_02</string>
+</resources>
